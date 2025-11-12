@@ -15,6 +15,7 @@ com\bankingapp\dao\AccountDAOImpl.class
 com\bankingapp\dao\TransactionDAOImpl.class
 com\bankingapp\email\EmailService.class
 com\bankingapp\model\TransferTransaction.class
+com\bankingapp\Runner.class
 com\bankingapp\model\Transaction.class
 com\bankingapp\dao\UserDAOImpl.class
 com\bankingapp\exceptions\InsufficientFundsException.class
